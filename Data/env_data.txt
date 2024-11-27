@@ -1,0 +1,1 @@
+Download the netcdf of climate data for projections of habitat suitability from https://osf.io/gbxsy/
